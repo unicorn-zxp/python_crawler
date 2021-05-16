@@ -6,4 +6,6 @@
 
 PS:代码执行不出来也别骂我，欢迎私信我，大家一起交流。
 
+psiphone3是个vpn，爬取ins的时候需要用到。
+
 视频链接：https://www.bilibili.com/video/BV1Aq4y1n7zS
