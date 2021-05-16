@@ -1,7 +1,9 @@
-1¡¢ÅÀÈ¡ins_1.py   ¸ü¸Äline71£¬½«nameÌæ»»³ÉÄãÏëÒªÅÀÈ¡µÄinsÓÃ»§£¬È»ºó½«line73ºÍline76µÄpathºÍnumberÌæ»»³ÉÄãÏëÒª±£´æµÄÂ·¾¶ºÍ±£´æµÄÊýÁ¿¼´¿É
+1ã€çˆ¬å–ins_1.py   æ›´æ”¹line71ï¼Œå°†nameæ›¿æ¢æˆä½ æƒ³è¦çˆ¬å–çš„insç”¨æˆ·ï¼Œç„¶åŽå°†line73å’Œline76çš„pathå’Œnumberæ›¿æ¢æˆä½ æƒ³è¦ä¿å­˜çš„è·¯å¾„å’Œä¿å­˜çš„æ•°é‡å³å¯
 
-2¡¢ÅÀÈ¡ins_2.py  ¸úÉÏÃæÒ»ÐÐ£¬¸ü¸ÄÓÃ»§Ãû¡¢´æ´¢Â·¾¶¡¢ÅÀÈ¡ÊýÄ¿£»È»ºó½«line29ºÍline31×öÊÊµ±µÄ¸ü¸Ä£¬¸ü¸ÄÄÚÈÝ¼ûÊÓÆµ
+2ã€çˆ¬å–ins_2.py  è·Ÿä¸Šé¢ä¸€è¡Œï¼Œæ›´æ”¹ç”¨æˆ·åã€å­˜å‚¨è·¯å¾„ã€çˆ¬å–æ•°ç›®ï¼›ç„¶åŽå°†line29å’Œline31åšé€‚å½“çš„æ›´æ”¹ï¼Œæ›´æ”¹å†…å®¹è§è§†é¢‘
 
-ÅÀÈ¡ins_1.pyºÍÅÀÈ¡ins_2.pyµÄÇø±ðÊÇ£¬2ÊÇÓÐÐòµÄ£¬1ÊÇÎÞÐòµÄ¡£
+çˆ¬å–ins_1.pyå’Œçˆ¬å–ins_2.pyçš„åŒºåˆ«æ˜¯ï¼Œ2æ˜¯æœ‰åºçš„ï¼Œ1æ˜¯æ— åºçš„ã€‚
 
-PS:´úÂëÖ´ÐÐ²»³öÀ´Ò²±ðÂîÎÒ£¬»¶Ó­Ë½ÐÅÎÒ£¬´ó¼ÒÒ»Æð½»Á÷¡£
+PS:ä»£ç æ‰§è¡Œä¸å‡ºæ¥ä¹Ÿåˆ«éª‚æˆ‘ï¼Œæ¬¢è¿Žç§ä¿¡æˆ‘ï¼Œå¤§å®¶ä¸€èµ·äº¤æµã€‚
+
+è§†é¢‘é“¾æŽ¥ï¼šhttps://www.bilibili.com/video/BV1Aq4y1n7zS
